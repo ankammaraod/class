@@ -1,0 +1,9 @@
+node imageProcessor.js 
+Please select an image 
+1) ravan.jpeg 
+1
+Select your operation
+1) Blur
+2) Reverse 
+2
+Here is your image 
